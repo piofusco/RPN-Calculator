@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A7283F4-8D2C-40D5-B4A0-DEE5FB68C928</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7DDA6B87A44254B2A08F21E19140BA09E8964681</key>
+		<string>https://github.com/piofusco/RPN-Calculator.git</string>
+		<key>DA1ECF2CDEB6A3BA015F4A1841A90200BE4F026A</key>
+		<string>https://github.com/piofusco/Calculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Calculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7DDA6B87A44254B2A08F21E19140BA09E8964681</key>
+		<string>../..</string>
+		<key>DA1ECF2CDEB6A3BA015F4A1841A90200BE4F026A</key>
+		<string>../..Calculator/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/piofusco/RPN-Calculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7DDA6B87A44254B2A08F21E19140BA09E8964681</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7DDA6B87A44254B2A08F21E19140BA09E8964681</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calculator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA1ECF2CDEB6A3BA015F4A1841A90200BE4F026A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
